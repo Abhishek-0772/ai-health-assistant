@@ -1,0 +1,4 @@
+# pip install einops
+# pip install transformers
+# pip install gradio
+# pip install torch
